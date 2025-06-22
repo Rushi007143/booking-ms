@@ -4,6 +4,12 @@
 # Log file
 *.log
 
+# Combined version (you decide what to keep)
+target/
+.idea/
+*.log
+node_modules/
+
 # BlueJ files
 *.ctxt
 
